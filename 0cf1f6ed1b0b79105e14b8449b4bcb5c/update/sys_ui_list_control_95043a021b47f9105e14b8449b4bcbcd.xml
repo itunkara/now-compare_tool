@@ -28,6 +28,7 @@
         <omit_if_empty>true</omit_if_empty>
         <omit_links>false</omit_links>
         <omit_new_button>true</omit_new_button>
+        <omit_related_list_count>false</omit_related_list_count>
         <related_list>REL:1d03bace1b07f9105e14b8449b4bcb3d</related_list>
         <sys_class_name>sys_ui_list_control</sys_class_name>
         <sys_created_by>tom.hauri</sys_created_by>
